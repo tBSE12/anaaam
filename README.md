@@ -1,4 +1,4 @@
-# Anon-Msgs
+# Anaaam
 ## Documentation
 |Route|Method|Auth|Description|Query|Body|
 |---|---|---|---|---|---|
